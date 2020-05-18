@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Camel -->
+
+  <AEXP_Camel.label>camelo</AEXP_Camel.label>
+  <AEXP_Camel.labelPlural>camelos</AEXP_Camel.labelPlural>
+  <AEXP_Camel.lifeStages.0.label>camelo filhote</AEXP_Camel.lifeStages.0.label>
+  <AEXP_Camel.lifeStages.0.labelPlural>camelos filhotes</AEXP_Camel.lifeStages.0.labelPlural>
+  <AEXP_Camel.lifeStages.0.labelMale>camelo filhote</AEXP_Camel.lifeStages.0.labelMale>
+  <AEXP_Camel.lifeStages.0.labelMalePlural>camelos filhotes</AEXP_Camel.lifeStages.0.labelMalePlural>
+  <AEXP_Camel.lifeStages.0.labelFemale>camelo filhote</AEXP_Camel.lifeStages.0.labelFemale>
+  <AEXP_Camel.lifeStages.0.labelFemalePlural>camelos filhotes</AEXP_Camel.lifeStages.0.labelFemalePlural>
+  <AEXP_Camel.lifeStages.1.label>camelo</AEXP_Camel.lifeStages.1.label>
+  <AEXP_Camel.lifeStages.1.labelPlural>camelos</AEXP_Camel.lifeStages.1.labelPlural>
+  <AEXP_Camel.lifeStages.1.labelMale>camelo</AEXP_Camel.lifeStages.1.labelMale>
+  <AEXP_Camel.lifeStages.1.labelMalePlural>camelos</AEXP_Camel.lifeStages.1.labelMalePlural>
+  <AEXP_Camel.lifeStages.1.labelFemale>camelo</AEXP_Camel.lifeStages.1.labelFemale>
+  <AEXP_Camel.lifeStages.1.labelFemalePlural>camelos</AEXP_Camel.lifeStages.1.labelFemalePlural>
+  <AEXP_Camel.lifeStages.2.label>camelo</AEXP_Camel.lifeStages.2.label>
+  <AEXP_Camel.lifeStages.2.labelPlural>camelos</AEXP_Camel.lifeStages.2.labelPlural>
+  <AEXP_Camel.lifeStages.2.labelMale>camelo</AEXP_Camel.lifeStages.2.labelMale>
+  <AEXP_Camel.lifeStages.2.labelMalePlural>camelos</AEXP_Camel.lifeStages.2.labelMalePlural>
+  <AEXP_Camel.lifeStages.2.labelFemale>camelo</AEXP_Camel.lifeStages.2.labelFemale>
+  <AEXP_Camel.lifeStages.2.labelFemalePlural>camelos</AEXP_Camel.lifeStages.2.labelFemalePlural>
+  <AEXP_Camel.labelMale>camelo</AEXP_Camel.labelMale>
+  <AEXP_Camel.labelMalePlural>camelos</AEXP_Camel.labelMalePlural>
+  <AEXP_Camel.labelFemale>camelo</AEXP_Camel.labelFemale>
+  <AEXP_Camel.labelFemalePlural>camelos</AEXP_Camel.labelFemalePlural>
+
+
+  <!-- Rattlesnake -->
+
+  <AEXP_Rattlesnake.label>cascavel</AEXP_Rattlesnake.label>
+  <AEXP_Rattlesnake.labelPlural>cascaveis</AEXP_Rattlesnake.labelPlural>
+  <AEXP_Rattlesnake.lifeStages.0.label>cascavel filhote</AEXP_Rattlesnake.lifeStages.0.label>
+  <AEXP_Rattlesnake.lifeStages.0.labelPlural>cascaveis filhotes</AEXP_Rattlesnake.lifeStages.0.labelPlural>
+  <AEXP_Rattlesnake.lifeStages.0.labelMale>cascavel filhote</AEXP_Rattlesnake.lifeStages.0.labelMale>
+  <AEXP_Rattlesnake.lifeStages.0.labelMalePlural>cascaveis filhotes</AEXP_Rattlesnake.lifeStages.0.labelMalePlural>
+  <AEXP_Rattlesnake.lifeStages.0.labelFemale>cascavel filhote</AEXP_Rattlesnake.lifeStages.0.labelFemale>
+  <AEXP_Rattlesnake.lifeStages.0.labelFemalePlural>cascaveis filhotes</AEXP_Rattlesnake.lifeStages.0.labelFemalePlural>
+  <AEXP_Rattlesnake.lifeStages.1.label>cascavel</AEXP_Rattlesnake.lifeStages.1.label>
+  <AEXP_Rattlesnake.lifeStages.1.labelPlural>cascaveis</AEXP_Rattlesnake.lifeStages.1.labelPlural>
+  <AEXP_Rattlesnake.lifeStages.1.labelMale>cascavel</AEXP_Rattlesnake.lifeStages.1.labelMale>
+  <AEXP_Rattlesnake.lifeStages.1.labelMalePlural>cascaveis</AEXP_Rattlesnake.lifeStages.1.labelMalePlural>
+  <AEXP_Rattlesnake.lifeStages.1.labelFemale>cascavel</AEXP_Rattlesnake.lifeStages.1.labelFemale>
+  <AEXP_Rattlesnake.lifeStages.1.labelFemalePlural>cascaveis</AEXP_Rattlesnake.lifeStages.1.labelFemalePlural>
+  <AEXP_Rattlesnake.lifeStages.2.label>cascavel</AEXP_Rattlesnake.lifeStages.2.label>
+  <AEXP_Rattlesnake.lifeStages.2.labelPlural>cascaveis</AEXP_Rattlesnake.lifeStages.2.labelPlural>
+  <AEXP_Rattlesnake.lifeStages.2.labelMale>cascavel</AEXP_Rattlesnake.lifeStages.2.labelMale>
+  <AEXP_Rattlesnake.lifeStages.2.labelMalePlural>cascaveis</AEXP_Rattlesnake.lifeStages.2.labelMalePlural>
+  <AEXP_Rattlesnake.lifeStages.2.labelFemale>cascavel</AEXP_Rattlesnake.lifeStages.2.labelFemale>
+  <AEXP_Rattlesnake.lifeStages.2.labelFemalePlural>cascaveis</AEXP_Rattlesnake.lifeStages.2.labelFemalePlural>
+  <AEXP_Rattlesnake.labelMale>cascavel</AEXP_Rattlesnake.labelMale>
+  <AEXP_Rattlesnake.labelMalePlural>cascaveis</AEXP_Rattlesnake.labelMalePlural>
+  <AEXP_Rattlesnake.labelFemale>cascavel</AEXP_Rattlesnake.labelFemale>
+  <AEXP_Rattlesnake.labelFemalePlural>cascaveis</AEXP_Rattlesnake.labelFemalePlural>
+
+
+  <!-- Megascorpion -->
+
+  <AEXP_Megascorpion.label>megaescorpião</AEXP_Megascorpion.label>
+  <AEXP_Megascorpion.labelPlural>megaescorpiões</AEXP_Megascorpion.labelPlural>
+  <AEXP_Megascorpion.lifeStages.0.label>megaescorpião filhote</AEXP_Megascorpion.lifeStages.0.label>
+  <AEXP_Megascorpion.lifeStages.0.labelPlural>megaescorpiões filhotes</AEXP_Megascorpion.lifeStages.0.labelPlural>
+  <AEXP_Megascorpion.lifeStages.0.labelMale>megaescorpião filhote</AEXP_Megascorpion.lifeStages.0.labelMale>
+  <AEXP_Megascorpion.lifeStages.0.labelMalePlural>megaescorpiões filhotes</AEXP_Megascorpion.lifeStages.0.labelMalePlural>
+  <AEXP_Megascorpion.lifeStages.0.labelFemale>megaescorpião filhote</AEXP_Megascorpion.lifeStages.0.labelFemale>
+  <AEXP_Megascorpion.lifeStages.0.labelFemalePlural>megaescorpiões filhotes</AEXP_Megascorpion.lifeStages.0.labelFemalePlural>
+  <AEXP_Megascorpion.lifeStages.1.label>megaescorpião</AEXP_Megascorpion.lifeStages.1.label>
+  <AEXP_Megascorpion.lifeStages.1.labelPlural>megaescorpiões </AEXP_Megascorpion.lifeStages.1.labelPlural>
+  <AEXP_Megascorpion.lifeStages.1.labelMale>megaescorpião</AEXP_Megascorpion.lifeStages.1.labelMale>
+  <AEXP_Megascorpion.lifeStages.1.labelMalePlural>megaescorpiões</AEXP_Megascorpion.lifeStages.1.labelMalePlural>
+  <AEXP_Megascorpion.lifeStages.1.labelFemale>megaescorpião</AEXP_Megascorpion.lifeStages.1.labelFemale>
+  <AEXP_Megascorpion.lifeStages.1.labelFemalePlural>megaescorpiões</AEXP_Megascorpion.lifeStages.1.labelFemalePlural>
+  <AEXP_Megascorpion.lifeStages.2.label>megaescorpião</AEXP_Megascorpion.lifeStages.2.label>
+  <AEXP_Megascorpion.lifeStages.2.labelPlural>megaescorpiões</AEXP_Megascorpion.lifeStages.2.labelPlural>
+  <AEXP_Megascorpion.lifeStages.2.labelMale>megaescorpião</AEXP_Megascorpion.lifeStages.2.labelMale>
+  <AEXP_Megascorpion.lifeStages.2.labelMalePlural>megaescorpiões</AEXP_Megascorpion.lifeStages.2.labelMalePlural>
+  <AEXP_Megascorpion.lifeStages.2.labelFemale>megaescorpião</AEXP_Megascorpion.lifeStages.2.labelFemale>
+  <AEXP_Megascorpion.lifeStages.2.labelFemalePlural>megaescorpiões</AEXP_Megascorpion.lifeStages.2.labelFemalePlural>
+  <AEXP_Megascorpion.labelMale>megaescorpião</AEXP_Megascorpion.labelMale>
+  <AEXP_Megascorpion.labelMalePlural>megaescorpiões</AEXP_Megascorpion.labelMalePlural>
+  <AEXP_Megascorpion.labelFemale>megaescorpião</AEXP_Megascorpion.labelFemale>
+  <AEXP_Megascorpion.labelFemalePlural>megaescorpiões</AEXP_Megascorpion.labelFemalePlural>
+
+
+</LanguageData>

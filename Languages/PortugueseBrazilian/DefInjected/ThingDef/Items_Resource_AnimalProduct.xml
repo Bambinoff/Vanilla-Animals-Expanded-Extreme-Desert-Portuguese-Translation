@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+
+  <!-- Rattlesnake -->
+
+  <AEXP_EggRattlesnakeUnfertilized.label>ovo de cascavel (não fert.)</AEXP_EggRattlesnakeUnfertilized.label>
+  <AEXP_EggRattlesnakeUnfertilized.description>Um ovo de cascavel não fertilizado. Pode ser consumido cru, mas é muito melhor cozido. </AEXP_EggRattlesnakeUnfertilized.description>
+
+  <AEXP_EggRattlesnakeFertilized.label>ovo de cascavel (fert.)</AEXP_EggRattlesnakeFertilized.label>
+  <AEXP_EggRattlesnakeFertilized.description>Um ovo de cascavel fertilizado. Se tudo correr bem, deve eclodir em uma cascavel bebê. Pode ser consumido cru, mas é muito melhor cozido.</AEXP_EggRattlesnakeFertilized.description>
+
+
+</LanguageData>

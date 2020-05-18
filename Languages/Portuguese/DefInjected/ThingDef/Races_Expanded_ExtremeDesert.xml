@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Camel -->
+
+  <AEXP_Camel.label>camelo</AEXP_Camel.label>
+  <AEXP_Camel.description>Um grande mam&#237;fero terrestre adaptado a ambientes áridos. Domesticada desde os tempos antigos, sua lã e pele são excepcionalmente bons em isolar o calor do deserto, e seu leite é bastante nutritivo. Ele pode ser usado como um animal de carga, mas as duas corcovas o tornam extremamente desconfortável de andar.\n\nPor armazenar água em suas grandes corcovas e recuperar a umidade da respiração enquanto exala, ele pode passar semanas sem beber.</AEXP_Camel.description>
+  <AEXP_Camel.tools.0.label>casco esquerdo</AEXP_Camel.tools.0.label>
+  <AEXP_Camel.tools.1.label>casco direito</AEXP_Camel.tools.1.label>
+  <AEXP_Camel.tools.3.label>cabeça</AEXP_Camel.tools.3.label>
+
+
+  <!-- Rattlesnake -->
+
+  <AEXP_Rattlesnake.label>cascavel</AEXP_Rattlesnake.label>
+  <AEXP_Rattlesnake.description>Uma cobra altamente venenosa, recebendo seu nome de um chocalho no final de sua cauda. O som gerado soa como um aviso para qualquer predador; no entanto, caso não funcione, as presas de veneno de cascavel infligem toxinas extremamente dolorosas.</AEXP_Rattlesnake.description>
+  <AEXP_Rattlesnake.tools.0.label>veneno-presas</AEXP_Rattlesnake.tools.0.label>
+  <AEXP_Rattlesnake.tools.1.label>cabeça</AEXP_Rattlesnake.tools.1.label>
+
+
+  <!-- Megascorpion -->
+
+  <AEXP_Megascorpion.label>megaescorpião</AEXP_Megascorpion.label>
+  <AEXP_Megascorpion.description>Um escorpião gigante, geneticamente modificado. Uma vez criado como uma ferramenta perfeita de assassinato, nem sempre é visto retornando ao seu habitat natural - o deserto. Um veneno muito potente em seu ferrão ajuda a atacar presas ainda maiores. Uma criatura eusocial, não pode se reproduzir individualmente.</AEXP_Megascorpion.description>
+  <AEXP_Megascorpion.tools.0.label>ferrão</AEXP_Megascorpion.tools.0.label>
+  <AEXP_Megascorpion.tools.1.label>mand&#237;bula</AEXP_Megascorpion.tools.1.label>
+  <AEXP_Megascorpion.tools.2.label>cabeça</AEXP_Megascorpion.tools.2.label>
+  
+
+</LanguageData>
